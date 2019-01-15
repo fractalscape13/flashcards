@@ -1,0 +1,59 @@
+.button-blue {
+  background-color: darkblue;
+  margin-left: 100px;
+  margin-top: 100px;
+  color: gold;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button-green {
+  background-color: forestgreen;
+  margin-left: 100px;
+  margin-top: 100px;
+  color: gold;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button-red {
+  background-color: darkred;
+  margin-left: 100px;
+  margin-top: 100px;
+  color: gold;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button-brown {
+  background-color: #563709;
+  margin-left: 100px;
+  margin-top: 100px;
+  color: gold;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.center {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.definition {
+  display: block;
+}
+
+.showdefinition {
+  display: none;
+}
