@@ -46,7 +46,7 @@
   text-align: center;
 }
 
-.clickable {
+span {
   cursor: pointer;
 }
 
@@ -55,5 +55,77 @@ ul {
 }
 
 .showdefinition {
+  display: none;
+}
+
+.showdefinition1 {
+  display: none;
+}
+
+.showdefinition2 {
+  display: none;
+}
+
+.showdefinition3 {
+  display: none;
+}
+
+.showdefinition4 {
+  display: none;
+}
+
+.showdefinition5 {
+  display: none;
+}
+
+.showdefinition6 {
+  display: none;
+}
+
+.showdefinition7 {
+  display: none;
+}
+
+.showdefinition8 {
+  display: none;
+}
+
+.showdefinition9 {
+  display: none;
+}
+
+.showdefinition10 {
+  display: none;
+}
+
+.showdefinition11 {
+  display: none;
+}
+
+.showdefinition12 {
+  display: none;
+}
+
+.showdefinition13 {
+  display: none;
+}
+
+.showdefinition14 {
+  display: none;
+}
+
+.showdefinition15 {
+  display: none;
+}
+
+.showdefinition16 {
+  display: none;
+}
+
+.showdefinition17 {
+  display: none;
+}
+
+.showdefinition18 {
   display: none;
 }
