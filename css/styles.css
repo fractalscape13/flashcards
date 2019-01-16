@@ -1,6 +1,6 @@
 .button-blue {
   background-color: darkblue;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-top: 100px;
   color: gold;
   padding: 15px 32px;
@@ -11,7 +11,7 @@
 
 .button-green {
   background-color: forestgreen;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-top: 100px;
   color: gold;
   padding: 15px 32px;
@@ -22,7 +22,7 @@
 
 .button-red {
   background-color: darkred;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-top: 100px;
   color: gold;
   padding: 15px 32px;
@@ -33,13 +33,12 @@
 
 .button-brown {
   background-color: #563709;
-  margin-left: 100px;
+  margin-left: 200px;
   margin-top: 100px;
   color: gold;
   padding: 15px 32px;
   text-align: center;
   display: inline-block;
-  font-size: 16px;
 }
 
 .background {
@@ -50,7 +49,13 @@
 
 .center {
   text-align: center;
+  padding-top: 25px;
   color: gold;
+}
+
+p.center {
+  padding-top: 25px;
+  font-size: 30;
 }
 
 span {
